@@ -8,3 +8,6 @@ Projeto para a matéria da faculdade de programação de banco de dados.
 <p>Desainee surge da visão de criar um ambiente onde o talento artístico é reconhecido e celebrado. Aqui, artistas designers, ilustradores e artistas visuais podem compartilhar suas obras, enquanto mecenas têm a oportunidade de encomendar peças exclusivas, ajustadas às suas preferências.
 
 Nossa plataforma destaca a autonomia do artista, permitindo-lhes aceitar ou recusar propostas de commissions, assegurando que cada colaboração esteja alinhada com seus valores e disponibilidade.</p>
+
+<h2>Funcionalidades Principais</h2>
+<h3>Portfólio Digital:</h3><p>Oferecemos aos artistas uma vitrine virtual para apresentarem suas obras, facilitando o upload de imagens, a inclusão de descrições detalhadas e o compartilhamento de suas experiências.</p>
