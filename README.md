@@ -11,3 +11,5 @@ Nossa plataforma destaca a autonomia do artista, permitindo-lhes aceitar ou recu
 
 <h2>Funcionalidades Principais</h2>
 <h3>Portfólio Digital:</h3><p>Oferecemos aos artistas uma vitrine virtual para apresentarem suas obras, facilitando o upload de imagens, a inclusão de descrições detalhadas e o compartilhamento de suas experiências.</p>
+
+<h3>Solicitações de Commissions:</h3><p>Mecenas podem navegar pelos portfólios e enviar solicitações personalizadas, detalhando suas necessidades e expectativas.</p>
