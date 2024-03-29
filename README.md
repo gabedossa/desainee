@@ -17,3 +17,11 @@ Nossa plataforma destaca a autonomia do artista, permitindo-lhes aceitar ou recu
 <h3>Gerenciamento de Solicitações:</h3><p>Artistas recebem notificações de novas propostas e podem gerenciar suas commissions, aceitando, recusando ou negociando termos diretamente.</p>
 
 <h3>Comunicação Integrada:</h3><p>Proporcionamos um canal de comunicação direto, permitindo a troca efetiva de informações e ideias entre artistas e mecenas, garantindo clareza e alinhamento em cada projeto.</p>
+
+<h2>Primeiros Passos</h2>
+<p>Para fazer parte do Desainee, siga estas etapas:</p>
+<ol>
+  <li>Acesse o Código: Clone o repositório com git clone url_do_repositorio.</li>
+  <li>Prepare o Ambiente: Instale as dependências necessárias através de npm install ou yarn install.</li>
+  <li>Inicie a Aplicação: Execute o aplicativo localmente com npm run start ou yarn start.</li>
+</ol>
