@@ -21,7 +21,7 @@ Nossa plataforma destaca a autonomia do artista, permitindo-lhes aceitar ou recu
 <h2>Primeiros Passos</h2>
 <p>Para fazer parte do Desainee, siga estas etapas:</p>
 <ol>
-  <li>Acesse o Código: Clone o repositório com git clone url_do_repositorio.</li>
+  <li>Acesse o Código: Clone o repositório com git clone [url_do_repositorio.](https://github.com/gabedossa/desainee.git)</li>
   <li>Prepare o Ambiente: Instale as dependências necessárias através de npm install ou yarn install.</li>
   <li>Inicie a Aplicação: Execute o aplicativo localmente com npm run start ou yarn start.</li>
 </ol>
